@@ -576,7 +576,7 @@ transition: all 1s;
 }
 
 /* ============= Footer =============*/
-.footer {
+footer {
 	background-color: #1a1a1a;
 	padding-bottom: 35px;
 	padding-top: 35px;
