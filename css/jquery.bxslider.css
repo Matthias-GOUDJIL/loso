@@ -4,7 +4,7 @@
 ===================================*/
 .bx-wrapper {
   position: relative;
-  margin-bottom: 60px;
+  margin: 0 auto 60px auto;;
   padding: 0;
   *zoom: 1;
   -ms-touch-action: pan-y;
@@ -15,7 +15,7 @@
   display: block;
 }
 .bxslider {
-  margin: 0;
+  margin: auto;
   padding: 0;
 }
 ul.bxslider {
